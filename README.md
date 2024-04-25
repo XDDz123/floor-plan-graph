@@ -1,6 +1,7 @@
 # Floor Plan Graph Converter
 This project can convert images of floor plans to graphs that retain room adjacency/connectivity information. </br>
 Created to help out some UCL Bartlett students. </br>
+The program could be used to process images for training floor plan generation ML networks. </br>
 
 # Libraries
 * numpy
